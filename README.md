@@ -19,3 +19,4 @@
 16：toast：https://github.com/GrenderG/Toasty
 17：utils：https://github.com/Blankj/AndroidUtilCode     https://github.com/litesuits/android-common
 18：圆形进度条：https://github.com/Shinelw/ColorArcProgressBar
+19：主流：glide，rxJava,okHttp,eventBus,retrofit,rxRecycle
