@@ -6,9 +6,9 @@
 3.底栏：https://github.com/roughike/BottomBar        https://github.com/H07000223/FlycoTabLayout
 4.RecycleView：https://github.com/CymChad/BaseRecyclerViewAdapterHelper       https://github.com/drakeet/MultiType
 5.图片放大浏览：https://github.com/Hitomis/transferee
-6.图片压缩：https://github.com/Curzibn/Luban    tps://github.com/Sunzxyong/Tiny
+6.图片压缩：https://github.com/Curzibn/Luban    https://github.com/Sunzxyong/Tiny
 7.图片选择器：https://github.com/zhihu/Matisse
-8.地址选择器：https://github.com/Bigkoo/Android-PickerView    tps://github.com/gzu-liyujiang/AndroidPicker
+8.地址选择器：https://github.com/Bigkoo/Android-PickerView    https://github.com/gzu-liyujiang/AndroidPicker
 9.折线图：https://github.com/whataa/SuitLines
 10：更新库：https://github.com/czy1121/update
 11:权限：https://github.com/tbruyelle/RxPermissions
